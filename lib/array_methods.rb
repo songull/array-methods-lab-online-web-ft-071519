@@ -9,7 +9,8 @@ villas.sort
 end
 
 def using_reverse(array)
-
+flavors = ["strawberry", "chocolate", "vanilla", "mint"]
+flavors.reverse
 end
 
 def using_first(array)
