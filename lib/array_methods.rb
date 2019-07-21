@@ -24,6 +24,6 @@ planets.last
 end
 
 def using_size(array)
-copy = ["c1", "c2", "c3", "c4", "c5", "c6", "c7"]
+copy = ["c1", "c2", "c3", "c4", "c5", "c6"]
 copy.size
 end
