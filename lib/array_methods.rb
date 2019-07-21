@@ -4,7 +4,7 @@ cookies.include?("vanilla")
 end
 
 def using_sort(array)
-villas = ["venom", "thor", "loki", "carnage"]
+villas = ["wow", "thor", "loki", "carnage"]
 villas.sort
 end
 
