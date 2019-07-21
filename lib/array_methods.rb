@@ -1,5 +1,4 @@
 def using_include(array, element)
-cookies = ["choco", "cinnamon", "raisins", "vanilla"]
 array.include?("xo")
 end
 
