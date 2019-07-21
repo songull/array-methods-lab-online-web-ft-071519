@@ -1,6 +1,6 @@
 def using_include(array, element)
-  array = ["m", "dd", "app", "look"]
-array.include?("app")
+  cookies = ["m", "dd", "app", "look"]
+cookies.include?("app")
 end
 
 def using_sort(array)
