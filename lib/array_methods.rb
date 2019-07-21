@@ -14,7 +14,8 @@ flavors.reverse
 end
 
 def using_first(array)
-
+stars = ["hot", "medium", "mild", "blazing"]
+stars.first
 end
 
 def using_last(array)
